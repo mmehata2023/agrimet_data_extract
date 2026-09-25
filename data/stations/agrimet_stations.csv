@@ -1,0 +1,269 @@
+station_id,station_name,state,longitude,latitude,installed_date,elevation
+evty,"Evanston, Wyoming AgriMet Weather Station",WY,-111.02937,41.19713,3/9/2015,2080
+afty,"Afton, Wyoming AgriMet Weather Station",WY,-110.93583,42.73333,11/1/1980,1892.81
+silw,"Silcott Island, Washington AgriMet Weather Station",WA,-117.18472,46.41861,7/18/2002,251.46
+sbmw,"Seven Bays Marina, Washington AgriMet Weather Station",WA,-118.34111,47.85527,4/16/2002,417.58
+sacw,"Sacheen Lake, Washington Weather Station",WA,-117.31593,48.17849,1/27/2016,663
+omaw,"Omak, Washington AgriMet Weather Station",WA,-119.57611,48.4025,1/25/1989,376.43
+odsw,"Odessa, Washington AgriMet Weather Station",WA,-118.87861,47.30888,4/24/1984,502.92
+masw,"Manson, Washington AgriMet Weather Station",WA,-120.12444,47.91694,11/9/1993,601.07
+lidw,"Lind, Washington AgriMet Weather Station",WA,-118.73944,46.86722,5/18/1983,449.58
+libw,"Liberty Lake, Washington Weather Station",WA,-117.1091,47.67612,11/18/2014,632
+legw,"Legrow, Washington AgriMet Weather Station",WA,-118.93611,46.20527,7/17/1986,176.78
+lbrw,"Lake Bryan - Rice Bar, Washington AgriMet Weather Station",WA,-117.65416,46.6975,4/19/2002,192.02
+kflw,"Kettle Falls, Washington AgriMet Weather Station",WA,-118.12416,48.595,4/17/2002,408.43
+hrhw,"Harrah, Washington AgriMet Weather Station",WA,-120.57444,46.38472,5/27/1987,259.08
+golw,"Goldendale, Washington AgriMet Weather Station",WA,-120.82444,45.81194,11/27/1991,512.06
+gerw,"George, Washington AgriMet Weather Station",WA,-119.64222,47.04388,5/15/1986,350.52
+gcdw,"Grand Coulee Dam, Washington AgriMet Weather Station",WA,-118.95361,47.94527,4/16/2002,402.34
+efhw,"Entiat Fish Hatchery, Washington Weather Station",WA,-120.32373,47.69796,9/26/2013,315
+drpw,"Deer Park, Washington Weather Station",WA,-117.43352,47.95464,6/25/2014,662.94
+cjdw,"Chief Joseph Dam, Washington AgriMet Weather Station",WA,-119.63555,47.99083,4/15/2002,301.75
+chaw,"Chamokane, Washington AgriMet Weather Station",WA,-117.73916,48.03138,11/27/2007,594.36
+bndw,"Bonneville Dam AgriMet, Washington AgriMet Weather Station",WA,-121.93111,45.64777,4/13/2002,24.38
+vrnu,"Vernal, UT AgriMet Weather Station",UT,-109.56202,40.45841,4/20/2016,5464
+vecu,"UCC - Venice, Utah Weather Station",UT,-112.00037,38.8235,,1598.3712
+trpu,"Tropic, Utah AgriMet Weather Station",UT,-112.04642,37.62747,3/12/2015,1893
+trmu,"UCC - Tremonton, Utah Weather Station",UT,-112.15375,41.72293,,1320.0888
+sutu,"Sutherland, Utah AgriMet Weather Station",UT,-112.63823,39.45071,,1451
+spvu,"San Pete Valley, Utah AgriMet Weather Station",UT,-111.53721,39.48575,3/16/2015,1711
+spfu,"UCC - Spanish Fork, Utah Weather Station",UT,-111.62912,40.0672,,1438.9608
+snwu,"UCC - Snowville (West), Utah Weather Station",UT,-112.91198,41.98382,,1354.2264
+snsu,"UCC - Snowville South, Utah Weather Station",UT,-112.72465,41.86625,,1466.6976
+scpu,"Scipio, Utah AgriMet Weather Station",UT,-112.09848,39.22009,3/13/2015,1627
+rdhu,"UCC - Randolph, Utah Weather Station",UT,-111.08772,41.83267,,1909.2672
+plvu,"Pleasant Valley, Utah Weather Station",UT,-110.09471,40.1663,12/3/2014,1612
+pelu,"Pelican Lake, Utah Weather Station",UT,-109.66665,40.17426,12/3/2014,1467
+paru,"UCC - Parowan, Utah Weather Station",UT,-112.88107,37.86227,,1758.696
+panu,"UCC - Panguitch, Utah Weather Station",UT,-112.42177,37.86858,,1996.44
+nepu,"UCC - Nephi, Utah Weather Station",UT,-111.87678,39.68942,,1524.6096
+muru,"UCC - Murray, Utah Weather Station",UT,-111.9198,40.63133,,1307.592
+mnru,"Monroe, Utah AgriMet Weather Station",UT,-112.1576,38.63419,3/11/2015,1648
+loau,"Loa, UT AgriMet Weather Station",UT,-111.63572,38.38335,4/20/2016,2168.96
+lgiu,"Logan Island Backyard, Utah Weather Station",UT,-111.80361,41.73861,,1410.92
+lggu,"UCC - Logan Golf, Utah Weather Station",UT,-111.80353,41.73868,,1465.4784
+lewu,"UCC - Lewiston, Utah Weather Station",UT,-111.86903,41.95213,,1375.8672
+laku,"UCC - Laketown , Utah Weather Station",UT,-111.33438,41.8379,,1816.3032
+hntu,"Huntington, Utah Weather Station",UT,-110.97399,39.3079,12/2/2014,1754
+hdru,"UCC - Hardware Ranch, Utah Weather Station",UT,-111.56685,41.60123,,1695.9072
+grtu,"Grantsville, Utah AgriMet Weather Station",UT,-112.75653,40.53054,3/10/2015,1331
+grfu,"UCC - Greenville Farm, Utah Weather Station",UT,-111.8105,41.76648,1/30/2014,1413
+frnu,"Ferron, Utah Weather Station",UT,-111.15426,39.07555,12/2/2014,1830
+flou,"UCC - Flowell, Utah Weather Station",UT,-112.0004,38.9571,,1443.228
+evfu,"UCC - Evan's Farm, Utah Weather Station",UT,-111.83317,41.6945,,1382.268
+elmu,"Elmo, Utah Weather Station",UT,-110.83798,39.42126,12/3/2014,1744
+ducu,"Duchesne, Utah AgriMet Weather Station",UT,-110.36013,40.18068,,1675
+drfu,"UCC - Drainage Farm, Utah Weather Station",UT,-111.87895,41.76295,,1351.788
+csvu,"Castle Valley, Utah AgriMet Weather Station",UT,-109.39897,38.6483,3/11/2015,1429
+csdu,"Castle Dale, Utah Weather Station",UT,-111.07003,39.22013,12/1/2014,1798
+crnu,"UCC - Corinne, Utah Weather Station",UT,-112.17395,41.51915,,1291.7424
+cedu,"UCC - Cedar City, Utah Weather Station",UT,-113.13717,37.67297,,1685.2392
+bucu,"UCC - Buckhorn, Utah Weather Station",UT,-112.71148,38.0399,,1773.936
+brju,"UCC - Beryl Junction, Utah Weather Station",UT,-113.70202,37.7196,,1580.998
+blou,"UCC - BearLake, Utah Weather Station",UT,-111.42014,41.93363,,1979.981
+blcu,"UCC - Blue Creek, Utah Weather Station",UT,-112.49117,41.96217,,1575.816
+blbu,"Bluebell, UT AgriMet Weather Station",UT,-110.20922,40.37262,4/20/2016,1885.49
+wwco,"Wallowa County, Oregon AgriMet Weather Station",OR,-117.22272,45.3925,6/9/2022,1201.8
+wrfo,Water Reclamation Facility - Bend,OR,-121.20177,44.12183,6/18/2026,1018
+wrdo,"Worden, Oregon AgriMet Weather Station",OR,-121.7875,42.0125,4/19/2000,1243.58
+wdho,"Woodhall Vinyard near Monroe, Oregon AgriMet Weather Station",OR,-123.40813,44.3385,10/29/2020,191
+twko,"Twickenham, Oregon AgriMet Weather Station",OR,-120.17757,44.74763,10/11/2022,1570
+tmlo,"Tumalo, Oregon AgriMet Weather Station",OR,-121.39879,44.15824,3/21/2024,1051.9
+tlmo,"Tillamook, Oregon Weather Station",OR,-123.7605,45.4405,2/20/2023,21
+subo,"Sublimity, Oregon Weather Station",OR,-122.74218,44.87407,2/22/2024,248
+snco,"Seneca, Oregon AgriMet Weather Station",OR,-118.97917,44.14832,12/29/2023,1424
+scpo,"Scappoose, Oregon Weather Station",OR,-122.855,45.75389,2/21/2024,3
+rufo,"Rufus, Oregon AgriMet Weather Station",OR,-120.75609,45.67411,4/5/2024,277.063
+roso,"Roseburg, OR AgriMet Weather Station",OR,-123.43923,43.27079,7/26/2016,153.6
+rilo,"Riley, Oregon AgriMet Weather Station",OR,-119.43801,43.49007,3/21/2024,1274.978
+pvto,"Provolt, Oregon Weather Station",OR,-123.25496,42.31448,3/13/2023,344.729
+ptro,"Pilot Rock, Oregon AgriMet Weather Station",OR,-118.77887,45.53451,4/4/2024,488.899
+pslo,"Paisley, Oregon AgriMet Weather Station",OR,-120.45521,42.6128,3/19/2024,1319.784
+prno,"Prineville, Oregon AgriMet Weather Station",OR,-120.91708,44.36668,4/18/2024,892.15
+pobo,"Powell Butte, Oregon AgriMet Weather Station",OR,-120.94972,44.24833,9/21/1993,975.36
+pnpo,"Pine Nursery Park, Oregon AgriMet Weather Station",OR,-121.26851,44.09234,1/7/2026,1056
+pngo,"Pine Grove, Oregon AgriMet Weather Station",OR,-121.50916,45.65222,10/20/1989,188.98
+pcyo,"Prairie City, Oregon AgriMet Weather Station",OR,-118.62777,44.44083,4/12/1989,1143.61
+paro,"Parkdale, Oregon AgriMet Weather Station",OR,-121.61666,45.54444,10/20/1989,451.1
+owno,"Crane, OR AgriMet Weather Station",OR,-118.61926,43.41605,43640,1256
+onto,"Ontario, Oregon AgriMet Weather Station",OR,-117.01527,43.97777,4/30/1992,688.85
+nopo,"North Powder, Oregon AgriMet Weather Station",OR,-117.94233,45.03342,6/21/2022,1012.85
+mwso,"Middle Warm Springs, Oregon Weather Station",OR,-121.1479,44.85424,9/12/2013,432
+mrso,"Madras, Oregon AgriMet Weather Station",OR,-121.14861,44.68,5/1/1984,743.71
+mfro,"Milton-Freewater, Oregon AgriMet Weather Station",OR,-118.35021,45.94715,6/21/2022,1016.813
+mdxo,"Moody Farms Control Station, Oregon Weather Station",OR,-121.0683,44.86912,9/9/2013,391
+mdto,"Moody Farms West Satellite, Oregon Weather Station",OR,-121.07948,44.86941,9/10/2013,384
+mdso,"Moody Farms South Satellite, Oregon Weather Station",OR,-121.06508,44.86472,9/10/2013,426
+mdno,"Moody Farms North Satellite, Oregon Weather Station",OR,-121.06748,44.87365,9/10/2013,402
+mdfo,"Medford, Oregon AgriMet Weather Station",OR,-122.93777,42.33111,5/23/1989,408.43
+mdeo,"Moody Farms East Satellite, Oregon Weather Station",OR,-121.07621,44.87789,9/10/2013,399
+loro,"Lorella, Oregon AgriMet Weather Station",OR,-121.22416,42.07777,3/31/2001,1267.97
+lkpo,"Lookout Point Dam Weather Station, Oregon",OR,-122.75278,43.91667,4/19/2002,930
+lkgo,"Lookingglass, Oregon Weather Station",OR,-123.47844,43.16643,3/14/2024,174
+lbno,"Lebanon, Oregon Weather Station",OR,-122.89387,44.56429,2/23/2024,102
+lako,"Lakeview, Oregon AgriMet Weather Station",OR,-120.52305,42.12222,4/19/1988,1453.9
+kflo,"Klamath Falls, Oregon AgriMet Weather Station",OR,-121.755,42.16472,3/30/1999,1249.68
+jpro,Juniper Ridge (Bend) Oregon AgriMet Weather Station,OR,-121.27178,44.11359,7/28/2026,1020
+jnvo,"Jordan Valley, Oregon AgriMet Weather Station",OR,-117.12035,42.97363,12/27/2023,1325.88
+imbo,"Imbler, Oregon AgriMet Weather Station",OR,-117.96666,45.43333,4/5/1994,838.2
+hrmo,"Hermiston R & E Center, Oregon AgriMet Weather Station",OR,-119.28333,45.81944,7/15/1993,185.01
+hrfo,"Hereford, Oregon AgriMet Weather Station",OR,-118.02,44.48805,4/28/1998,1097.28
+hoxo,"Hood River, Oregon AgriMet Weather Station",OR,-121.51805,45.68444,5/19/1987,155.45
+hmpo,"Hampton, Oregon AgriMet Weather Station",OR,-120.31473,43.69826,4/18/2024,1349.96
+hero,"Hermiston, Oregon AgriMet Weather Station",OR,-119.52138,45.82111,5/17/1983,167.64
+hcko,"Hills Creek Dam Weather Station, Oregon",OR,-122.42361,43.70972,9/25/2002,439
+haro,"Harper, Oregon AgriMet Weather Station",OR,-117.59656,43.87317,12/29/2023,764.438
+gpso,"Grants Pass, Oregon Weather Station",OR,-123.45623,42.42217,3/14/2024,267.919
+ftmo,"Fifteen Miile Creek near Dufur, Oregon AgriMet Weather Station",OR,-121.13603,45.45025,10/12/2022,405.079
+fslo,"Fossil, Oregon AgriMet Weather Station",OR,-120.23382,45.01058,4/19/2024,776.935
+fogo,"Forest Grove, Oregon AgriMet Weather Station",OR,-123.08361,45.55305,8/29/1991,54.86
+fldo,"Fields, Oregon AgriMet Weather Station",OR,-118.54025,42.16438,3/19/2024,1264.92
+eoro,"EOARC Burns, OR AgriMet Weather Station",OR,-119.02524,43.52072,6/25/2019,1262
+egpo,"Eagle Point, Oregon Weather Station",OR,-122.75257,42.48919,3/13/2024,454.76
+echo,"Echo, Oregon AgriMet Weather Station",OR,-119.31111,45.71861,3/24/1988,231.65
+dyto,"Dayton, Oregon Weather Station",OR,-123.09718,45.20812,2/21/2024,47
+dtro,"Detroit Lake, Oregon AgriMet Weather Station",OR,-122.17916,44.73,9/26/2002,510.54
+defo,"Dee Flat, Oregon AgriMet Weather Station",OR,-121.64055,45.58638,10/20/1988,350.52
+cvjo,"Cave Junction, Oregon Weather Station",OR,-123.63077,42.16696,3/13/2024,421.84
+crvo,"Corvallis, Oregon AgriMet Weather Station",OR,-123.19,44.63416,2/27/1990,70.1
+cndo,"Condon, Oregon AgriMet Weather Station",OR,-120.17664,45.22843,4/4/2024,862.889
+chvo,"Christmas Valley, Oregon AgriMet Weather Station",OR,-120.72805,43.24138,4/22/1985,1312.16
+cbro,"Coburg, Oregon Weather Station",OR,-123.06062,44.15185,2/23/2024,116
+CATO,"Catlow Valley, OR AgriMet Weather Station",OR,-119.1083,42.66361,12/28/2023,1387.75
+brko,"Brookings, Oregon AgriMet Weather Station",OR,-124.24083,42.03,9/28/1999,24.38
+brgo,"Boring, Oregon Weather Station",OR,122.32105,45.45324,2/19/2024,196
+brdo,"Boardman, Oregon AgriMet Weather Station",OR,-119.92308,45.75132,4/4/2024,178.92
+bkvo,"Baker Valley, Oregon Agrimet Weather Station",OR,-117.96277,44.88277,5/10/2001,1042.42
+bewo,"Bend, Oregon AgriMet Weather Station",OR,-121.32027,44.0475,5/1/2003,1103.38
+bato,"Beatty, Oregon AgriMet Weather Station",OR,-121.27388,42.47805,10/19/2004,1316.74
+bano,"Bandon, Oregon AgriMet Weather Station",OR,-124.41722,43.09111,5/15/1985,24.38
+asto,"Astoria, Oregon Weather Station",OR,-123.85901,46.13138,2/20/2024,8
+asho,"Ashland, Oregon AgriMet Weather Station",OR,-122.70976,42.21711,3/13/2024,558.698
+arao,"Aurora, Oregon AgriMet Weather Station",OR,-122.75027,45.28194,10/22/1998,42.67
+amto,"Amity, Oregon Weather Station",OR,-123.24397,45.08634,2/22/2024,50.29
+agko,"Agency Lake Ranch, Oregon AgriMet Weather Station",OR,-121.9825,42.56527,5/3/2000,1264.92
+abro,"Awbrey Park, Oregon AgriMet Weather Station",OR,-121.32559,44.06809,1/13/2026,1157
+abpo,"Awbrey Park, Oregon Agrimet All-In-One Sensor",OR,-121.32559,44.06809,1/13/2026,1157
+swmn,"DRI - Steptoe Valley WMA, Nevada Weather Station",NV,-114.81028,39.19556,3/11/2011,1965.96
+stvn,"DRI - Steptoe Valley North, Nevada Weather Station",NV,-114.65139,40.08417,3/11/2011,1784.604
+ssvn,"DRI - Sand Spring Valley, Nevada Weather Station",NV,-115.7975,37.64667,12/10/2010,1466.088
+span,"DRI - Truckee Meadows, Nevada Weather Station",NV,-119.73778,39.50306,5/10/2010,1338.072
+snkn,"DRI - Snake Valley, Nevada Weather Station",NV,-114.08972,39.02111,8/10/2010,1578.864
+smvn,"DRI - Smith Valley, Nevada Weather Station",NV,-119.33556,38.75139,8/10/2010,1488.948
+rogn,"DRI - Rogers Spring, Nevada Weather Station",NV,-116.33083,36.47833,9/10/2010,688.848
+reen,"DRI - Reese River Valley, Nevada Weather Station",NV,-117.29806,39.23417,5/1/2014,1847
+pwln,"DRI - Pahranagat NWR, Nevada Weather Station",NV,-115.10639,37.24556,7/10/2010,982.98
+pvan,"DRI - Paradise Valley, Nevada Weather Station",NV,-117.66028,41.18556,11/10/2010,1341.12
+nsvn,"DRI - North Spring Valley, Nevada Weather Station",NV,-114.50667,39.45806,6/11/2011,1719.6816
+msvn,"DRI - Mason Valley WMA, Nevada Weather Station",NV,-119.14722,39.10667,4/10/2011,1318.8696
+moan,"DRI - Moapa Valley, Nevada Weather Station",NV,-114.45889,36.56972,2/10/2010,398.6784
+lndn,"Lund, Nevada AgriMet Weather Station",NV,-115.03811,38.86685,8/4/2015,1687.68
+huan,"DRI - Hualapai Flat, Nevada Weather Station",NV,-119.33306,40.90111,10/12/2012,1235.964
+faln,"Fallon, Nevada AgriMet Weather Station",NV,-118.77388,39.4575,3/28/2001,1208.53
+eurn,"Eureka, Nevada AgriMet Weather Station",NV,-115.97861,39.68527,8/1/2001,1797.41
+cvan,"DRI - Carson Valley, Nevada Weather Station",NV,-119.80389,38.99278,8/10/2010,1425.5496
+clvn,"DRI - Clover Valley, Nevada Weather Station",NV,-114.96944,40.86833,9/11/2011,1720.9008
+clon,"Clover Valley, Nevada Weather Station",NV,-114.96944,40.86833,11-Sep-14,1720.9
+bvpc,"DRI - Bridgeport Valley, Nevada Weather Station",NV,-119.25222,38.22306,7/12/2012,1979.676
+anvn,"DRI - Antelope Valley, Nevada Weather Station",NV,-117.16889,40.09389,6/11/2011,1484.6808
+wssm,"White Sulphur Springs, MT (WSSM)",MT,-110.94761,46.55337,,0
+umhm,"Upper Musselshell-Harlowton, MT (UMHM)",MT,-109.94082,46.44691,,0
+trfm,"Teton River-Farmington, MT (TRFM)",MT,-112.15968,47.90052,,0
+tosm,"Toston, MT (TOSM)",MT,-111.49488,46.12225,,0
+svwm,"Shields Valley-Wilsall, MT (SVWM)",MT,-110.65328,46.0466,,0
+sigm,"Saint Ignatius, Montana AgriMet Weather Station",MT,-114.08416,47.32527,3/28/1991,908.3
+RNBM,"Round Butte (new), Montana AgriMet Weather Station",MT,-114.26846,47.54401,9/6/2019,
+rdbm,"Round Butte, Montana AgriMet Weather Station",MT,-114.28055,47.53944,5/23/1989,926.59
+rbym,"Ruby River Valley-Laurin, MT (RBYM)",MT,-112.15028,45.34475,,0
+mwsm,"Moccasin, MT (MWSM)",MT,-109.95075,47.05854,,0
+moim,"Moiese Valley, MT AgriMet Weather Station",MT,-114.34082,47.40101,9/6/2019,
+mdlm,"Mud Lake, Montana",MT,-114.08657,47.6315,12/18/2025,
+matm,"Malta, MT (MATM)",MT,-107.7765,48.37401,,0
+lmmm,"Lower Musselshell-Melstone, MT (LMMM)",MT,-108.00575,46.56273,,0
+jvwm,"Jefferson River Valley-Whitehall, MT (JVWM)",MT,-112.16579,45.79779,,0
+jckm,"Jocko Valley (Arlee), Montana AgriMet Station",MT,-114.07597,47.16183,9/5/2019,
+hvmt,"Helena Valley, MT (HVMT)",MT,-111.98915,46.67561,,0
+htsm,"Hot Springs, Montana AgriMet Weather Station",MT,-114.64272,47.61645,9/5/2019,
+hrlm,"Harlem, MT (HRLM)",MT,-108.83462,48.54357,,0
+glgm,"Glasgow, MT (GLGM)",MT,-106.60933,48.1432,,0
+gfmt,"Greenfields-Fairfield, MT (GFMT)",MT,-111.8191,47.65853,,0
+drlm,"Deer Lodge, Montana AgriMet Weather Station",MT,-112.76666,46.33555,6/4/1998,1426.46
+dlnm,"Dillon, MT (DLNM)",MT,-112.50939,45.33358,,0
+crsm,"Creston, Montana AgriMet Weather Station",MT,-114.14471,48.18568,5/4/1988,899.16
+covm,"Corvallis, Montana AgriMet Weather Station",MT,-114.0837,46.32847,4/27/1984,1096.37
+brtm,"Buffalo Rapids-Terry, MT (BRTM)",MT,-105.29755,46.77839,,0
+brgm,"Buffalo Rapids-Glendive, MT (BRGM)",MT,-104.80315,46.98847,,0
+bozm,"Bozeman, MT (BOZM)",MT,-111.15462,45.67302,,0
+bomt,"Broken-O Ranch, MT (BOMT)",MT,-112.2359,47.51955,,0
+bftm,"Big Flat - Turner, MT (BFTM)",MT,-108.56367,48.83568,,0
+bfam,"Blackfeet-Seville Colony, MT (BFAM)",MT,-112.5887,48.6754,,0
+twfi,Twin Falls (Kimberly) Idaho AgriMet Weather Station 7E,ID,-114.34527,42.54611,5/4/1990,1194.82
+trti,"Terraton, Idaho AgriMet Weather Station",ID,-112.26394,43.8704,3/13/2014,1478
+tfgi,"Twin Falls Fairgrounds, Filer Idaho",ID,-114.60155,42.56878,8/21/2013,1147
+teri,"INL - Terreton, Idaho Weather Station",ID,-112.41825,43.84168,,1460.6016
+tabi,"INL - Taber, Idaho Weather Station",ID,-112.6918,43.31868,,1441.704
+sugi,"INL - Sugar City, Idaho Weather Station",ID,-111.73762,43.89658,,1491.996
+spli,"Spirit Lake, Idaho Weather Station",ID,-116.88308,47.98729,11/19/2014,756
+slwi,"Silverwood WWTP Athol, Idaho Weather Station",ID,-116.72583,47.9014,6/26/2014,712.3176
+slmi,"Salmon, Idaho AgriMet Weather Station",ID,-113.88431,45.27887,9/7/2019,1165.86 
+shli,"Shelley, Idaho Weather Station",ID,-112.14273,43.43452,3/13/2014,1417
+rxgi,"Rexburg, Idaho AgriMet Weather Station",ID,-111.76666,43.85,6/3/1987,1485.9
+rthi,"Rathdrum Prairie, Idaho AgriMet Weather Station",ID,-116.84132,47.79545,4/22/2008,673.61
+rrii,"Ririe, Idaho AgriMet Weather Station",ID,-111.7006,43.61035,3/13/2014,1547
+rrci,"INL - Arco, Idaho Weather Station",ID,-113.2971,43.62455,,1627.3272
+rpti,"Rupert, Idaho AgriMet Weather Station",ID,-113.87388,42.59555,3/9/1988,1266.44
+robi,"INL - Roberts, Idaho Weather Station",ID,-112.12112,43.74352,,1450.848
+rgbi,"Rigby, Idaho AgriMet Weather Station",ID,-111.87922,43.6772,3/13/2014,1488
+psti,"Preston, Idaho Weather Station",ID,-111.89363,42.10715,11/5/2014,1335
+psfi,"Post Falls, Idaho Weather Station",ID,-116.9701,47.71366,11/18/2014,665
+pmai,"Parma, Idaho AgriMet Weather Station",ID,-116.93333,43.8,3/28/1986,702.56
+pici,"Picabo, Idaho AgriMet Weather Station",ID,-114.16583,43.31166,4/21/1993,1493.52
+owei,"INL - Howe, Idaho Weather Station",ID,-112.97732,43.78412,,1467.612
+osgi,"Osgood, Idaho AgriMet Weather Station",ID,-112.07568,43.58884,3/13/2014,1471
+nmpi,"Nampa, Idaho AgriMet Weather Station",ID,-116.64527,43.43722,3/11/1996,823.57
+mrei,"Moore, ID AgriMet Weather Station",ID,-113.37162,47.76177,9/8/2019,1688.897
+mnti,"Monteview, Idaho Weather Station",ID,-112.53583,44.015,10/1/1996,1480
+mnpi,"Montpelier, Idaho Weather Station",ID,-111.33773,42.25452,11/16/2014,1823
+mdki,"INL - Minidoka, Idaho Weather Station",ID,-113.58965,42.80442,,1306.068
+mchi,MICHAUD CANAL AT AMERICAN FALLS (PUMPING PLANT),ID,-112.87222,42.77917,1-Jan-82,1260.043
+mali,"Malta, Idaho AgriMet Weather Station",ID,-113.41388,42.4375,6/2/1983,1344.17
+lofi,"INL - Specific Manufacturing Capability, Idaho",ID,-112.73027,43.85977,41792,1571.522
+ktbi,"Kettle Butte, Idaho Weather Station",ID,-112.32583,43.54861,10/15/1995,1565
+iyci,"Idaho Youth Challenge Academy - Pierce, ID AgriMet Weather Station",ID,-115.79796,46.4973,4/20/2019,980
+igri,"INL - INTEC/Grid 3, Idaho",ID,-112.73027,43.5897,41792,1606.627
+ifai,"INL - Idaho Falls, Idaho Weather Station",ID,-112.05013,43.50413,,1435.3032
+ichi,"INL - Richfield, Idaho Weather Station",ID,-114.13458,43.0606,,1328.3184
+hami,"INL - Hamer, Idaho Weather Station",ID,-112.23883,44.00742,,1476.1464
+grei,"Grace, Idaho AgriMet Weather Station",ID,-111.73606,42.51496,3/13/2014,1661
+gfri,"Glenns Ferry, Idaho AgriMet Weather Station",ID,-115.35694,42.86666,4/13/1993,922.02
+gdvi,"Grand View, Idaho AgriMet Weather Station",ID,-116.05611,42.9125,2/10/1993,786.38
+fthi,"Fort Hall, Idaho AgriMet Weather Station",ID,-112.43111,43.07138,4/2/1993,1354.84
+fafi,"Fairfield, Idaho AgriMet Weather Station",ID,-114.82222,43.31305,6/25/1987,1535.58
+ebri,"INL - Material Fuels Complex, Idaho",ID,-112.65173,43.59413,41786,1687.336
+dwni,"Downey, Idaho Weather Station",ID,-112.12929,42.43355,11/5/2014,1483
+DRTI,"Dietrich, Idaho",ID,-114.23388,42.90067,4/4/2025,1241
+deni,"Dworshak - Dent Acres, Idaho AgriMet Weather Station",ID,-116.22055,46.62333,4/19/2002,499.87
+ckvy,"Cokeville, Wyoming AgriMet Weather Station",ID,-110.95611,42.07783,3/9/2015,1887
+cdai,"Coeur d'Alene Fairgrounds, Idaho Weather Station",ID,-116.78435,47.71794,11/19/2014,620
+boii,"Boise, Idaho AgriMet Weather Station",ID,-116.17694,43.60027,7/26/1995,829.06
+bfgi,Boise Fairgrounds Weather Station,ID,-116.27417,43.65303,8/15/2013,800
+ahti,"Ashton, Idaho AgriMet Weather Station",ID,-111.46666,44.025,6/1/1987,1615.44
+acki,"INL - Blackfoot, Idaho Weather Station",ID,-112.3332,43.18985,,1377.696
+abei,"Aberdeen, Idaho Weather Station",ID,-112.82667,42.95333,3/20/1991,1341
+yjk01,"Yellow Jacket, Colorado CoAgMet Weather Station",CO,-108.724,37.5289,1/2/1992,2103
+twc01,"Towaoc, Colorado CoAgMet Weather Station",CO,-108.935,37.1891,6/30/1998,1621
+slt01,"Silt, Colorado CoAgMet Weather Station",CO,-107.693,39.5667,5/8/2015,1713
+oth02,"Olathe2, Colorado CoAgMet Weather Station",CO,-108.07,38.61,8/12/2010,1661
+oth01,"Olathe, Colorado CoAgMet Weather Station",CO,-108.05,38.64,7/28/1992,1623
+orm01,"Orchard Mesa, Colorado CoAgMet Weather Station",CO,-108.46,39.04,1/2/2006,1527
+mtr01,"Montrose, Colorado CoAgMet Weather Station",CO,-107.91,38.55,2/24/2015,1722
+mnc01,"Mancos, Colorado CoAgMet Weather Station",CO,-108.338,37.322,9/5/2017,2051
+hyd01,"Hayden, Colorado CoAgMet Weather Station",CO,-107.181,40.499,11/16/2011,1967
+gun01,"Gunnison, Colorado CoAgMet Weather Station",CO,-106.9,38.61,2/25/2015,2406
+frt02,"Fruita CSU Expt Station, Colorado CoAgMet Weather Station",CO,-108.7,39.18,6/16/1992,1377
+ekt01,"Eckert, Colorado CoAgMet Weather Station",CO,-107.973,38.8398,9/5/2017,1683
+dlt01,"Delta, Colorado CoAgMet Weather Station",CO,-108.12,38.73,4/19/1995,1527
+ctz01,"Cortez, Colorado CoAgMet Weather Station",CO,-108.673,37.2248,1/2/1992,1833
+cbl01,"Carbondale, Colorado CoAgMet Weather Station",CO,-107.208,39.3623,9/5/2017,1918
+tlkc,"Tulelake, California AgriMet Weather Station",CA,-121.51496,41.86409,12/21/2016,1223
+cedc,"Cedarville, California AgriMet Weather Station",CA,-120.17138,41.58527,4/24/1985,1402.08
